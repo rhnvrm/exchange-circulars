@@ -1,0 +1,373 @@
+---
+category: trading
+circular_id: ec827b0708ceec5e
+date: '2026-10-26'
+description: NSE circular detailing securities subject to the Reversal Trade Cancellation
+  Mechanism (RTCM).
+draft: false
+feed_type: ''
+guid: https://nsearchives.nseindia.com/content/circulars/SURV77114.zip
+impact: medium
+impact_ranking: medium
+importance_ranking: medium
+justification: Lists securities subject to the Reversal Trade Cancellation Mechanism
+  (RTCM) by NSE.
+pdf_url: https://nsearchives.nseindia.com/content/circulars/SURV77114.zip
+processing:
+  attempts: 1
+  content_hash: 58d8a1fa06eb5552
+  processed_at: '2026-10-26T20:23:51.027731'
+  processor_version: '2.0'
+  stage: completed
+  status: published
+published_date: '2026-10-26T00:00:00+05:30'
+rss_url: https://nsearchives.nseindia.com/content/circulars/SURV77114.zip
+severity: medium
+source: nse
+stocks:
+- PARACABLES
+- WHBRADY
+- GOCOLORS
+- ONIXSOLAR
+- ENCOMPAS
+- AERONEU
+- LGHL
+- BENGALASM
+- CHAVDA
+- PROTEAN
+- DHRUV
+- VETO
+- COMMITTED
+- POLYSIL
+- WATERBASE
+- HBESD
+- LAMBODHARA
+- SELLOWRAP
+- DEEDEV
+- KCK
+- SURANAT&P
+- CBAZAAR
+- CURIS
+- SHREEPUSHK
+- DIGISPICE
+- MKPL
+- SAIPARENT
+- MONEYBOXX
+- EMBDL
+- SVGLOBAL
+- SPMLINFRA
+- INFLUX
+- TAURIAN
+- SHRJAGP
+- ASHIMASYN
+- WAKEFIT
+- DOLPHIN
+- CRSL
+- SHREERAMA
+- KANORICHEM
+- FAZE3Q
+- PATELRMART
+- FUSION
+- LAKPRE
+- SPECTSTM
+- EFACTOR
+- INDNIPPON
+- ELGIRUBCO
+- ANKITMETAL
+- WANBURY
+- QUALIANCE
+- VRAJ
+- WILLAMAGOR
+- SAURASHCEM
+- ACL
+- READYMIX
+- RHFL
+- SUPERHOUSE
+- IITL
+- ESAFSFB
+- KOTARISUG
+- SHEKHAWATI
+- RSSOFTWARE
+- TECHD
+- SHANTIGEAR
+- STYLEBAAZA
+- DEEP
+- INFINIUM
+- MMP
+- SPECTRUM
+- BANSALWIRE
+- ASCOM
+- ELCIDIN
+- VOEPL
+- RUCHIRA
+- BANARISUG
+- CREDENT
+- MASFIN
+- SUNLITE
+- MWL
+- JAINAM
+- DTL
+- ALLETEC
+- KRMAYURVED
+- VAISHALI
+- SSEGL
+- LOTUSCHO
+- BHARATRAS
+- MEDICAMEQ
+- YOGI
+- SUNFLAG
+- MAXPOSURE
+- SPCENET
+- IFGLEXPOR
+- PLADAINFO
+- DEVX
+- ETHOSLTD
+- NAGAFERT
+- SURANI
+- SADBHAV
+- HYBRIDFIN
+- WESTLIFE
+- SFML
+- RAJOOENG
+- PRAXIS
+- TRIGYN
+- MAKS
+- SEJALLTD
+- MOHITE
+- PRECISION
+- PAKKA
+- ROML
+- ANMOL
+- IL&FSENGG
+- SATKARTAR
+- PARNAXLAB
+- UMA
+- PRECAM
+- ITL
+- OCCLLTD
+- SAMBHAAV
+- K2INFRA
+- SURAKSHA
+- GOODYEAR
+- RAMBHAJO
+- ABH
+- ZEEMEDIA
+- KHAICHEM
+- ALPHAGEO
+- HEXATRADEX
+- CINELINE
+- HOLMARC
+- A2ZINFRA
+- DBSTOCKBRO
+- CPL
+- TRF
+- AGRITECH
+- IVC
+- HINDCOMPOS
+- CHANDAN
+- FOSECOIND
+- ZENITHSTL
+- ARISTO
+- DYNAMIC
+- CCCL
+- KANCHI
+- TTKPRESTIG
+- MANIKA
+- BIMETAL
+- BHAGYANGR
+- AVTNPL
+- DEN
+- INDPRUD
+- HMAAGRO
+- ASIANHOTNR
+- MONARCH
+- ADVANIHOTR
+- ORIANA
+- SHANTIINOR
+- MADHAVIPL
+- SPELS
+- BLUECLOUDS
+- SILVERTUC
+- OSWALAGRO
+- MARCO
+- JKIL
+- COMFINTE
+- CUDML
+- BHAGCHEM
+- INDOAMIN
+- KICL
+- JEYYAM
+- VINYLINDIA
+- AGARWALEYE
+- ZENITHEXPO
+- MILTON
+- HIMALAYAN
+- DENTALKART
+- TOYAMSL
+- SWANDEF
+- OMFURN
+- EMMBI
+- MAGNUM
+- TAPIFRUIT
+- KRITI
+- KLBRENG-B
+- PASUPTAC
+- 3PLAND
+- SAYAJIHOTL
+- MASTERTR
+- ELDEHSG
+- SRD
+- ARIHANT
+- BUTTERFLY
+- NITYAS
+- JPOLYINVST
+- NDLVENTURE
+- TVSSCS
+- INDOTECH
+- RAJMET
+- KEEPLEARN
+- TIPSFILMS
+- DRCSYSTEMS
+- MPDL
+- MAKERSL
+- OMPOWER
+- HARSHA
+- SANGANI
+- PRIORITY
+- FCSSOFT
+- SYSTMTXC
+- SECURKLOUD
+- SHUBHSHREE
+- ASSAMENT
+- ROYALARC
+- STANLEY
+- ANSALAPI
+- RMC
+- JARO
+- TRIDHYA
+- SSDL
+- BLIL
+- NATIONSTD
+- INFOMEDIA
+- RRIL
+- BIKEWO
+- ATALREAL
+- ANDREWYU
+- REXPRO
+- SPCL
+- VLINFRA
+- JISLJALEQS
+- MADRASFERT
+- BLUSPRING
+- SWELECTES
+- ESPRIT
+- DELAPLEX
+- SHAIVAL
+- INVENTURE
+- LINCOLN
+- AUTOAXLES
+- IPSL
+- ANNU
+- CHEVIOT
+- SAYAJIIND
+- NIBL
+- MODIS
+- VIPCLOTHNG
+- CORONA
+- AESTHETIK
+- UNIHEALTH
+- ONYX
+- JALAN
+- RAJPUTANA
+- UNIECOM
+- UFBL
+- ABMINTLLTD
+- TARC
+- NUCLEUS
+- OSWALGREEN
+- PRANIK
+- SHERA
+- DIGJAMLMTD
+- TECILCHEM
+- SASKEN
+- SPUNWEB
+- FAIRCHEMOR
+- KELLTONTEC
+- QUICKHEAL
+- GRMOVER
+- EASTSILK
+- JYOTISTRUC
+- JETFREIGHT
+- TRANSCOR
+- DECCANTRAN
+- PSRAJ
+- HEIDELBERG
+- GGBL
+- ABMKNO
+- MEGAFLEX
+- ENERGYDEV
+- VICTORYEV
+- OMINFRAL
+- NITINSPIN
+- MOLDTECH
+- KEYFINSERV
+- CONNPLEX
+- RANEHOLDIN
+- WOL3D
+- SIGMA
+- AUTOIND
+- SURANASOL
+- ALANKIT
+- JAYBEE
+- EMAMIREAL
+- VCL
+- VTMLTD
+- TECHLABS
+- RAJTV
+- FALCONTECH
+- SHAHALLOYS
+- KMCSHIL
+- SJLOGISTIC
+- RAMASTEEL
+- INTENTECH
+- BANARBEADS
+- NRAIL
+- OWAIS
+- ZTECH
+- FASCINATE
+- SHETHJI
+- GUFICBIO
+- ENFUSE
+- BMWV
+tags:
+- rtcm
+- surveillance
+- reversal-trade-cancellation
+- trading-restrictions
+title: Reversal Trade Cancellation Mechanism (RTCM)
+---
+
+## Summary
+
+NSE has released the circular regarding the Reversal Trade Cancellation Mechanism (RTCM), detailing the list of securities subject to surveillance measures.
+
+## Key Points
+
+- Lists numerous scrips and stocks under the Reversal Trade Cancellation Mechanism.
+- Designed to deter suspicious reversal trades and potential market manipulation.
+
+## Regulatory Changes
+
+- Implementation of RTCM surveillance measures for specified securities to monitor and cancel suspicious trades.
+
+## Compliance Requirements
+
+- Trading members and market participants must review the listed securities and adhere to applicable surveillance guidelines.
+
+## Important Dates
+
+- Effective as of the circular date.
+
+## Impact Assessment
+
+- Increased monitoring and safeguards on listed securities to maintain market integrity and protect investors.
