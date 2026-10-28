@@ -7,7 +7,7 @@ pdf_url: https://www.msei.in/SX-Content/Circulars/2026/October/Circular-19991.ra
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-10-28T04:12:10.028905'
+  processed_at: '2026-10-28T12:11:33.568785'
   processor_version: '2.0'
   stage: download_failed
   status: failed
