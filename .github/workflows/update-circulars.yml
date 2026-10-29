@@ -28,7 +28,10 @@ jobs:
         fetch-depth: 0
 
     - name: Install Nix
-      uses: DeterminateSystems/nix-installer-action@v17
+      uses: DeterminateSystems/nix-installer-action@v23
+      with:
+        # Preserve upstream Nix; newer installer actions default to Determinate Nix.
+        determinate: false
 
     - name: Setup Nix cache
       uses: DeterminateSystems/magic-nix-cache-action@v8
