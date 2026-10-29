@@ -7,7 +7,7 @@ pdf_url: https://www.mcxindia.com/docs/default-source/circulars/english/2024/nov
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-10-29T09:43:54.623658'
+  processed_at: '2026-10-29T19:19:03.323551'
   processor_version: '2.0'
   stage: download_failed
   status: failed
