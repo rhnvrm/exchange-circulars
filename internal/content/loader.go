@@ -57,19 +57,32 @@ func (l *Loader) LoadFull(path string) (*models.Circular, error) {
 		return nil, fmt.Errorf("failed to read file: %w", err)
 	}
 
-	// Split frontmatter and body
-	parts := bytes.SplitN(content, []byte("---"), 3)
-	if len(parts) < 3 {
+	// Only standalone delimiter lines end frontmatter; document URLs can contain ---.
+	lines := bytes.SplitAfter(content, []byte("\n"))
+	if !bytes.Equal(bytes.TrimRight(lines[0], "\r\n"), []byte("---")) {
 		return nil, fmt.Errorf("invalid markdown format: missing frontmatter")
+	}
+	metadataStart := len(lines[0])
+	metadataEnd, bodyStart := -1, -1
+	offset := metadataStart
+	for _, line := range lines[1:] {
+		if bytes.Equal(bytes.TrimRight(line, "\r\n"), []byte("---")) {
+			metadataEnd, bodyStart = offset, offset+len(line)
+			break
+		}
+		offset += len(line)
+	}
+	if metadataEnd == -1 {
+		return nil, fmt.Errorf("invalid markdown format: missing closing frontmatter delimiter")
 	}
 
 	var c models.Circular
-	if err := yaml.Unmarshal(parts[1], &c); err != nil {
+	if err := yaml.Unmarshal(content[metadataStart:metadataEnd], &c); err != nil {
 		return nil, fmt.Errorf("failed to parse frontmatter: %w", err)
 	}
 
 	// Store raw markdown content
-	c.RawContent = string(bytes.TrimSpace(parts[2]))
+	c.RawContent = string(bytes.TrimSpace(content[bodyStart:]))
 	c.FilePath = path
 	c.Slug = l.extractSlug(path)
 	if !c.Date.Time.IsZero() {
