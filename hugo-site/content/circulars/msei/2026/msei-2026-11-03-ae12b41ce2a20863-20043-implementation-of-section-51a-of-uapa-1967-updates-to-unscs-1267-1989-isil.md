@@ -7,7 +7,7 @@ pdf_url: https://www.msei.in/SX-Content/Circulars/2026/November/Circular-20043.r
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-11-03T20:49:09.904986'
+  processed_at: '2026-11-04T01:03:59.846266'
   processor_version: '2.0'
   stage: download_failed
   status: failed
