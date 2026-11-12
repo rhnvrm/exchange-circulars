@@ -6,7 +6,7 @@ guid: https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13752&Mode=0
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-11-12T14:45:18.627811'
+  processed_at: '2026-11-12T21:50:42.962888'
   processor_version: '2.0'
   stage: ai_failed
   status: failed
