@@ -1,0 +1,20 @@
+---
+circular_id: eefbe7168ab790d2
+draft: true
+feed_type: press-release
+guid: https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63984
+processing:
+  attempts: 1
+  content_hash: ''
+  processed_at: '2026-11-16T21:45:27.473641'
+  processor_version: '2.0'
+  stage: ai_failed
+  status: failed
+published_date: '2026-11-16T19:25:00+05:30'
+rss_url: https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63984
+source: rbi
+title: RBI to conduct 2-day Variable Rate Reverse Repo (VRRR) auction under LAF on
+  November 17, 2026
+---
+
+Processing in progress...
