@@ -7,7 +7,7 @@ pdf_url: https://www.msei.in/SX-Content/Circulars/2026/November/Circular-20120.r
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-11-19T20:03:13.882578'
+  processed_at: '2026-11-20T02:03:51.727402'
   processor_version: '2.0'
   stage: download_failed
   status: failed
