@@ -1,0 +1,20 @@
+---
+circular_id: 463820486a415257
+draft: true
+feed_type: notification
+guid: https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13756&Mode=0
+processing:
+  attempts: 1
+  content_hash: ''
+  processed_at: '2026-11-23T11:55:19.715698'
+  processor_version: '2.0'
+  stage: ai_failed
+  status: failed
+published_date: '2026-11-23T17:00:00+05:30'
+rss_url: https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13756&Mode=0
+source: rbi
+title: Reserve Bank of India (All India Financial Institutions - Securitisation Transactions)
+  Amendment Directions, 2026
+---
+
+Processing in progress...
