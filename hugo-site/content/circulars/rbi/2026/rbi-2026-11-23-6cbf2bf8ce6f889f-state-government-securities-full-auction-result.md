@@ -6,7 +6,7 @@ guid: https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64027
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-11-23T11:54:20.077865'
+  processed_at: '2026-11-23T23:28:44.429488'
   processor_version: '2.0'
   stage: ai_failed
   status: failed
